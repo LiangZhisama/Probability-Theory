@@ -38,7 +38,7 @@
 #
 #plt.show()
 
-#justify digital features:
+#justify numerical features:
 import numpy as np
 from scipy.stats import binom
 binom_rv = binom(n=10,p=0.25)
